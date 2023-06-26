@@ -4,7 +4,7 @@
 (*Package Header*)
 
 
-BeginPackage["PeterBurbery`NewBasicHypergeometricFunctionsPaclet`"];
+BeginPackage["PeterBurbery`NewHypergeometricFunctionsPaclet`"];
 
 
 (* ::Text:: *)
